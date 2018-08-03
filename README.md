@@ -12,7 +12,7 @@ Plugin does not currently support any element that has an onClick event.
 
 ## Usage
 
-Chrome store download link: TBA
+Chrome store download link: https://chrome.google.com/webstore/detail/interactable/kipfhcghcmfhmdjmadnkgcpikhcjgfpi
 
 1. Right click the interactable icon and select options.
 2. Enter the URL you want interactable to check (will all pages on that domain).
