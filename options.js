@@ -15,6 +15,7 @@ function save_options() {
             status.textContent = '';
         }, 750);
     });
+    chrome.runtime.reload()
 }
 
 // Restores select box and checkbox state using the preferences
