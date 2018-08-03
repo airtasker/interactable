@@ -1,7 +1,7 @@
 {
   "manifest_version":2,
   "name":"interactable",
-  "version":"1.0",
+  "version":"1.0.1",
   "description":"Checks selectors on a site to see if interactable elements contain a certain selector.",
   "icons":{
     "16":"icon16.png",
