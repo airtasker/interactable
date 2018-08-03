@@ -13,14 +13,21 @@ Plugin does not currently support any element that has an onClick event.
 ## Usage
 
 Chrome store download link: TBA
-
+<span>
 1. Right click the interactable icon and select options.
 <img align="left" width="200" src="https://i.imgur.com/g9FeUeC.png">
+</span>
+<span>
 2. Enter the URL you want interactable to check (will all pages on that domain).
 <img align="left" width="200" src="https://i.imgur.com/DAOEheS.png">
+</span>
+<span>
 3. Enter the selector you want to look for.
 <img align="left" width="200" src="https://i.imgur.com/cSEZVtM.png">
+</span>
+<span>
 4. Click Save
+</span>
 
 `If you are using the extension as an unpacked (not from chrome store) you will need to reload the extention from chrome://extensions for the changes to take effect.`
 
